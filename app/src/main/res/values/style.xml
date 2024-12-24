@@ -1,0 +1,11 @@
+<resources>
+    <!-- Tambahkan gaya AppBarOverlay -->
+    <style name="Theme.NavigationDrawerExample.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Anda bisa menambahkan properti tambahan jika diperlukan -->
+    </style>
+
+    <!-- Tambahkan gaya PopupOverlay -->
+    <style name="Theme.NavigationDrawerExample.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Anda bisa menambahkan properti tambahan jika diperlukan -->
+    </style>
+</resources>
